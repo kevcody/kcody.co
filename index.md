@@ -1,3 +1,7 @@
+Kevin Cody | Principal Application Security Consultant
+[@kevcody](https://twitter.com/kevcody)
+
+
 # Presentations
 1. [CodeMash 2016](#codemash-2016)
 2. [OWASP Pittsburgh Q1 MeetUp 2016](#owasp-pittsburgh-q1-meetup-2016)
@@ -44,7 +48,7 @@ Authentication and authorization are two critical components to any highly secur
 
 ## BSides Pittsburgh 2017
 ### Lesser-Known Application Vulnerabilities
-Vulnerabilities are expensive, there’s simply no way around it. Whether it's mitigation costs, Penetration Testing fees, auditing, or bug bounties - vulnerabilities and bugs are pricey. While SQLi and XSS are certainly dangerous, this talk will focus on some of the more obscure application vulnerabilities which were identified within apps and services we use every day. This presentation won’t simply stop at introducing these talking points; rather, we will dive into identification, both risk and technical analysis, and finally remediation techniques. The goal of this discussion will be to arm security practitioners, of all skill levels, in better understanding application risks in 2017. 
+Vulnerabilities are expensive, there’s simply no way around it. Whether it's mitigation costs, Penetration Testing fees, auditing, or bug bounties - vulnerabilities and bugs are pricey. While SQLi and XSS are certainly dangerous, this talk will focus on some of the more obscure application vulnerabilities which were identified within apps and services we use every day. This presentation won’t simply stop at introducing these talking points; rather, we will dive into identification, both risk and technical analysis, and finally remediation techniques. The goal of this discussion will be to arm security practitioners, of all skill levels, in better understanding application risks in 2017.
 
 [YouTube Recording](https://youtu.be/AYOaKmuNBpo)
 
@@ -52,7 +56,7 @@ Vulnerabilities are expensive, there’s simply no way around it. Whether it's m
 
 ## BSides Dallas Fort Worth 2017
 ### Lesser-Known Application Vulnerabilities
-Vulnerabilities are expensive, there’s simply no way around it. Whether it's mitigation costs, Penetration Testing fees, auditing, or bug bounties - vulnerabilities and bugs are pricey. While SQLi and XSS are certainly dangerous, this talk will focus on some of the more obscure application vulnerabilities which were identified within apps and services we use every day. This presentation won’t simply stop at introducing these talking points; rather, we will dive into identification, both risk and technical analysis, and finally remediation techniques. The goal of this discussion will be to arm security practitioners, of all skill levels, in better understanding application risks in 2017. 
+Vulnerabilities are expensive, there’s simply no way around it. Whether it's mitigation costs, Penetration Testing fees, auditing, or bug bounties - vulnerabilities and bugs are pricey. While SQLi and XSS are certainly dangerous, this talk will focus on some of the more obscure application vulnerabilities which were identified within apps and services we use every day. This presentation won’t simply stop at introducing these talking points; rather, we will dive into identification, both risk and technical analysis, and finally remediation techniques. The goal of this discussion will be to arm security practitioners, of all skill levels, in better understanding application risks in 2017.
 
 ---
 
