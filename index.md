@@ -1,5 +1,4 @@
-Kevin Cody | Principal Application Security Consultant
-[@kevcody](https://twitter.com/kevcody)
+## Kevin Cody | Principal Application Security Consultant | [@kevcody](https://twitter.com/kevcody)
 
 
 # Presentations
