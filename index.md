@@ -1,8 +1,8 @@
 ---
-title:  "kcody.co"
+title:  "Kevin Cody"
 ---
 
-## Kevin Cody | Principal Application Security Consultant | [@kevcody](https://twitter.com/kevcody)
+Principal Application Security Consultant | [@kevcody](https://twitter.com/kevcody)
 
 
 # Presentations
