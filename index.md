@@ -20,6 +20,10 @@ title:  "Kevin Cody"
 12. [BSides Knoxville 2018](#bsides-knoxville-2018)
 13. [BSides Pittsburgh 2018](#bsides-pittsburgh-2018)
 14. [BSides Cleveland 2018](#bsides-cleveland-2018)
+15. [OWASP Columbus July 2018 Seminar: Mobile Device Security and Auditing]((#owasp-columbus-2018))
+16. [Absolute AppSec Podcast - February 2019](#absolute-appsec-podcast---february-2019)
+17. [OWASP SNOWFROC 2019]((#owasp-snowfroc-2019))
+18. [BSides Greenville 2019](#bsides-greenville-2019)
 
 ## CodeMash 2016
 ### Secure Code? What are your libraries hiding, and how do you know?
@@ -116,5 +120,33 @@ Contrary to Plutarch's famous quote regarding rest being the "sweet sauce" of la
 Have you ever wondered how much data your favorite shopping application is capturing during your mobile app visits? Or, have you questioned what kind of data that mobile game you love is able to gather, even if you don’t give it special permissions? What about the final consensus on that long running theory on if XYZ Enterprise is using your microphone to listen to your conversations and target advertisements? This session will hone in on exactly those questions. We will tear apart some common analytic products and tracking engines to expose exactly the content and frequency our commonly used mobile applications are reporting. Attendees will walk away with insider knowledge to make informed decisions in regard to how analytic services work in conjunction with their favorite mobile applications.
 
 [YouTube Recording](https://www.youtube.com/watch?v=FuzDhunDbZ8)
+
+---
+
+## OWASP Columbus 2018
+### Seminar: Mobile Device Security and Auditing
+With over 10 Billion mobile-connected devices presnetly in use, mobile devices and applications enable new threats and attacks which introduce significant risk. The biggest risks are data loss through an exploit or from devices being lost or stolen. How have devices become more secure? How do Apple and Google secure iOS and Android? How are mobile applications susceptible to common software vulnerabilities? Do you know what critical data is stored on these devices and backed up in the cloud? Is your sensitive data protected if a device is lost or stolen? Join David and Kevin as they explain how to be proactive by examining your mobile applications, devices, and their footprints.
+
+---
+
+## Absolute AppSec Podcast - February 2019
+[YouTube Recording](https://youtu.be/A21RnyG5fRg)
+
+---
+
+## OWASP SNOWFROC 2019
+### How to Frida Good
+There are currently between seven and eleventy billion mobile applications in Apple and Google app stores. Users have on average 150 mobile applications on their devices and screen time varies from 5-10hrs per day. Needless to say, we are entrenched in mobile applications and at the mercy of the security of the devices and applications. Over the years there have been many tools released for instrumenting and debugging mobile applications for security purposes, such as Snoop-it, Drozer, cycript, lldb, etc. Frida was released in late 2013, but really started taking a stronghold in mobile application security testing when the other tools became less useful or unmaintained. But how can we best use Frida, what is too deep, and what other tools can we use to improve our mobile testing methods? Join David and Kevin as they walk you through examining functionality of both iOS and Android apps to learn how they work, and dynamically instrument the applications as they are used. You should walk away with a better idea of how powerful Frida is, and how miserable mobile application security is if an attacker has physical access to a device.
+
+---
+
+## BSides Greenville 2019
+### To CORS! The cause of, and solution to, all SPA problems!
+### Co-Presenter
+Cross-origin resource sharing (CORS) is complex and misunderstood by many developers and security testers. If not implemented correctly, CORS can lead to major breaches of information through devastating client-side attacks. While CORS is a powerful protocol that enables much of the modern web, we've once again found ways to make development easier while putting others at risk.
+
+In this talk we will explain the same-origin policy (SOP) and CORS in an easy to understand way. We will then discuss poor implementations of CORS and the resulting issues. We'll continue by releasing research done on the number of development frameworks and libraries that default to the most dangerous behavior and some popular applications that use those technologies. We'll then demonstrate why all of this matters by conducting a distributed attack against the most common CORS configuration using audience participation. Finally, we'll discuss the safest ways to implement CORS. The custom tools developed for the talk will be released along with the presentation.
+
+While not without its drawbacks, the development community has spoken, and client-side frameworks aren't going anywhere anytime soon. That means CORS is here to stay. It's time we get the word out and start doing CORS right.
 
 ---
