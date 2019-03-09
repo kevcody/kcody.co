@@ -20,9 +20,9 @@ title:  "Kevin Cody"
 12. [BSides Knoxville 2018](#bsides-knoxville-2018)
 13. [BSides Pittsburgh 2018](#bsides-pittsburgh-2018)
 14. [BSides Cleveland 2018](#bsides-cleveland-2018)
-15. [OWASP Columbus July 2018 Seminar: Mobile Device Security and Auditing]((#owasp-columbus-2018))
+15. [OWASP Columbus July 2018 Seminar: Mobile Device Security and Auditing](#owasp-columbus-2018)
 16. [Absolute AppSec Podcast - February 2019](#absolute-appsec-podcast---february-2019)
-17. [OWASP SNOWFROC 2019](#owasp-snowfroc-2019))
+17. [OWASP SNOWFROC 2019](#owasp-snowfroc-2019)
 18. [BSides Greenville 2019](#bsides-greenville-2019)
 
 ## CodeMash 2016
