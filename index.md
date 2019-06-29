@@ -24,6 +24,9 @@ title:  "Kevin Cody"
 16. [Absolute AppSec Podcast - February 2019](#absolute-appsec-podcast---february-2019)
 17. [OWASP SNOWFROC 2019](#owasp-snowfroc-2019)
 18. [BSides Greenville 2019](#bsides-greenville-2019)
+19. [OWASP AppSec Global Tel Aviv 2019](#OWASP-AppSec-Global-Tel-Aviv-2019)
+20. [mDevCamp 2019](#mDevCamp-2019)
+21. [BSides Pittsburgh 2019](#bsides-pittsburgh-2019)
 
 ## CodeMash 2016
 ### Secure Code? What are your libraries hiding, and how do you know?
@@ -148,5 +151,27 @@ Cross-origin resource sharing (CORS) is complex and misunderstood by many develo
 In this talk we will explain the same-origin policy (SOP) and CORS in an easy to understand way. We will then discuss poor implementations of CORS and the resulting issues. We'll continue by releasing research done on the number of development frameworks and libraries that default to the most dangerous behavior and some popular applications that use those technologies. We'll then demonstrate why all of this matters by conducting a distributed attack against the most common CORS configuration using audience participation. Finally, we'll discuss the safest ways to implement CORS. The custom tools developed for the talk will be released along with the presentation.
 
 While not without its drawbacks, the development community has spoken, and client-side frameworks aren't going anywhere anytime soon. That means CORS is here to stay. It's time we get the word out and start doing CORS right.
+
+---
+
+## OWASP AppSec Global Tel Aviv 2019
+### Dissecting Mobile Application Privacy and Analytics
+Have you ever wondered how much data your favorite business application is capturing during your mobile app visits? Are you a developer or security engineer tasked with keeping your client data secure? Are you curious about what kind of data that mobile game you love can gather, even if you don’t give it special permissions? The apps we trust with our data hopefully use caution and comply with regulations, but what about the safeguards and authentication around these analytics portals? This session will hone in on precisely those questions. We will tear apart some favorite apps and their analytic products/tracking engines to expose exactly the content and frequency commonly used mobile applications are reporting. Attendees will walk away with insider knowledge to make informed decisions regarding the scope of this exposure, in effort to guard or personal and client data.
+
+---
+
+## mDevCamp 2019
+### How to Frida Good
+There are currently between seven and eleventy billion mobile applications in Apple and Google app stores. Users have on average 150 mobile applications on their devices and screen time varies from 5-10hrs per day. Needless to say, we are entrenched in mobile applications and at the mercy of the security of the devices and applications. Over the years there have been many tools released for instrumenting and debugging mobile applications for security purposes, such as Snoop-it, Drozer, cycript, lldb, etc. Frida was released in late 2013, but really started taking a stronghold in mobile application security testing when the other tools became less useful or unmaintained. But how can we best use Frida, what is too deep, and what other tools can we use to improve our mobile testing methods? Join David and Kevin as they walk you through examining functionality of both iOS and Android apps to learn how they work, and dynamically instrument the applications as they are used. You should walk away with a better idea of how powerful Frida is, and how miserable mobile application security is if an attacker has physical access to a device.
+
+[Slides and Recording](https://slideslive.com/38916544/how-to-frida-good?locale=en)
+
+---
+
+## BSides Pittsburgh 2019
+### Dead Folks Tell No Tales
+Death, wills, estate planning… I get it, this is not a topic that many people want to discuss. However, take a moment to think about the sophisticated authentication and authorization systems we use today. Does your significant other or family have everything they need to access, archive, and disseminate the digital lives that we technologists live? Furthermore, with more and more services accepting the use of multi-factor authentication, are you adequately prepared for anyone outside of yourself to authorize access? This presentation will break down different types of authentication technology and the barriers that might face your next-of-kin, in the event that an untimely (but ultimately inevitable) situation arises. Additionally, this talk will evaluate the risks and benefits of the current beneficiary recovery mechanisms available within password vaults, social media, financial services, and more. If the goal is to have strong authentication without single points of failure, we need to plan ahead and think of how we can bequeath our digital assets – this presentation will educate and implore you to do just that.  
+
+[YouTube Recording](https://youtu.be/SWHISa7zxqg?t=22846)
 
 ---
