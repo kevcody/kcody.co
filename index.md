@@ -24,8 +24,8 @@ title:  "Kevin Cody"
 16. [Absolute AppSec Podcast - February 2019](#absolute-appsec-podcast---february-2019)
 17. [OWASP SNOWFROC 2019](#owasp-snowfroc-2019)
 18. [BSides Greenville 2019](#bsides-greenville-2019)
-19. [OWASP AppSec Global Tel Aviv 2019](#OWASP-AppSec-Global-Tel-Aviv-2019)
-20. [mDevCamp 2019](#mDevCamp-2019)
+19. [OWASP AppSec Global Tel Aviv 2019](#owasp-appsec-global-tel-aviv-2019)
+20. [mDevCamp 2019](#mdevcamp-2019)
 21. [BSides Pittsburgh 2019](#bsides-pittsburgh-2019)
 
 ## CodeMash 2016
