@@ -27,7 +27,10 @@ title:  "Kevin Cody"
 19. [OWASP AppSec Global Tel Aviv 2019](#owasp-appsec-global-tel-aviv-2019)
 20. [mDevCamp 2019](#mdevcamp-2019)
 21. [BSides Pittsburgh 2019](#bsides-pittsburgh-2019)
+<<<<<<< HEAD
 22. [DerbyCon 2019](#DerbyCon-2019)
+=======
+>>>>>>> 3006f7948ba50e39e57d4ce1624d9c7798983464
 
 ## CodeMash 2016
 ### Secure Code? What are your libraries hiding, and how do you know?
