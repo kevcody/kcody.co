@@ -28,6 +28,7 @@ title:  "Kevin Cody"
 20. [mDevCamp 2019](#mdevcamp-2019)
 21. [BSides Pittsburgh 2019](#bsides-pittsburgh-2019)
 22. [DerbyCon 2019](#derbycon-2019)
+23. [BSides Orlando 2020](#bsides-orlando-2020)
 
 ---
 
@@ -185,3 +186,11 @@ Death, wills, estate planning… I get it, this is not a topic that many people 
 Cross-Origin Resource Sharing (CORS) is a complex and commonly misunderstood concept that is often implemented wrong for the right reasons. In this talk we will explain the Same-Origin Policy (SOP) and CORS in an easy to understand way. We will then discuss poor implementations of CORS and the resulting issues. We'll continue by releasing research done on a number of development frameworks exposing poorly designed CORS libraries that default to the most dangerous behavior. We'll then demonstrate why all of this matters by conducting a distributed attack against the most common CORS configuration using audience participation and a new tool. Finally, we'll discuss the safest ways to implement CORS. The custom tools used during the talk will be released along with the presentation.
 
 [YouTube Recording](https://www.youtube.com/watch?v=tH-HG4b4GYQ)
+
+---
+
+## BSides Orlando 2018
+### Time for a CORS Correction
+
+
+[YouTube Recording](https://youtu.be/puUH1jRNK24?t=11631)
