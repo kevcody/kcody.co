@@ -189,7 +189,7 @@ Cross-Origin Resource Sharing (CORS) is a complex and commonly misunderstood con
 
 ---
 
-## BSides Orlando 2018
+## BSides Orlando 2020
 ### Time for a CORS Correction
 
 
